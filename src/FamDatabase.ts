@@ -4804,16 +4804,13 @@ const famDatabase: CardMap = {
         img: "3bb", rarity: 4, evo: 2,
         fullName: "Orpheus, Fallen Hero II"
     },
-
     41807: {
-        name: "mtr",
+        name: "Infernal",
         fullName: "Infernal, Metal Dragon II",
         stats: [21000, 19356, 25000, 20000, 15600],
         skills: [270, 271],
         passiveSkills: [471],
-        autoAttack: 1,
-        img: "mtrd",
-        rarity: 5,
-        evo: 7,
+        autoAttack: 10003,
+        img: "mtrd", rarity:5, evo: 7,
     },
 };
