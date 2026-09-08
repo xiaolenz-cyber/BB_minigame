@@ -393,7 +393,8 @@ module ENUM {
         RARE = 3,
         EPIC = 4,
         LEGEND = 5,
-        MYTHIC = 6
+        MYTHIC = 6,
+        OMEGA = 7
     }
 
     export enum BonusType {
