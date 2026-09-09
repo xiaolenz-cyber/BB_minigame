@@ -8370,13 +8370,19 @@ const SkillDatabase: SkillMap = {
         name: "Decree of Death", type: 20, func: 1002, calc: 0,
         args: [0.4],
         range: 0, prob: 100,
-        desc: "Decrease damage from lower rarities by up to 40%"
-    },
+        desc: "Decrease damage from lower rarities by up to 40%"    },
 
     9011: {
         name: "Einherjar's Gift", type: 20, func: 1001, calc: 0,
         args: [0.3],
         range: 0, prob: 100,
         desc: "Increase damage to lower rarities by up to 30%."
+    },
+
+    10197: {
+        name: "Synthetic Blade", type: 2, func: 3, calc: 8,
+        args: [2.5, 2, 1],
+        range: 16, prob: 50, ward: 1,
+        desc: "Blade ATK WIS 2.5x for 3 random enemy with paralysis, Prob 50%"
     },
 };
