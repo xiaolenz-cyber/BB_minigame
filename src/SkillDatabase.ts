@@ -8379,10 +8379,10 @@ const SkillDatabase: SkillMap = {
         desc: "Increase damage to lower rarities by up to 30%."
     },
 
-    10197: {
+    10198: {
         name: "Synthetic Blade", type: 2, func: 3, calc: 8,
-        args: [2.5, 2, 1],
-        range: 16, prob: 50, ward: 1,
-        desc: "Blade ATK WIS 2.5x for 3 random enemy with paralysis, Prob 50%"
+        args: [3.5, 2, 1],
+        range: 16, prob: 100,
+        desc: "Atk+Wis 2.5x for 3 random enemy ignore position, Paralysis Effect, prob 50%"
     },
 };
