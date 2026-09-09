@@ -4813,4 +4813,10 @@ const famDatabase: CardMap = {
         autoAttack: 10003,
         img: "mtrd", rarity:5, evo: 7,
     },
+        41808: {
+        name: "Gemini II", stats: [18000, 18585, 15050, 15409, 17956],
+        skills: [10198, 10199],
+        img: "gem", rarity: 5, evo: 8,
+        fullName: "Artificial, Gemini II"
+    },
 };
