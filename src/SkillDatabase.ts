@@ -8383,6 +8383,13 @@ const SkillDatabase: SkillMap = {
         name: "Synthetic Blade", type: 2, func: 3, calc: 8,
         args: [3.5, 2, 1],
         range: 16, prob: 100, ward: 1,
-        desc: "Atk+Wis 3.5x for 3 random enemy ignore position, Paralysis Effect, prob 50%"
+        desc: "Atk+Wis 3.5x for 3 random enemy ignore position, Paralysis Effect, prob 100%"
+    },
+
+    10199: {
+        name: "Hyper Plasma Beam", type: 2, func: 3, calc: 8,
+        args: [3.5, 6, 1],
+        range: 23, prob: 50, ward: 1,
+        desc: "Atk+Wis 3.5x for 2 random enemy ignore position, Confused Effect, prob 50%"
     },
 };
