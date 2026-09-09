@@ -6977,4 +6977,13 @@ const famDatabase = {
     rarity: 5,
     evo: 7
   }
+  41808: {
+    name: "Artificial",
+    stats: [18000, 18585, 15050, 15409, 17956],
+    skills: [10198, 10199],
+    img: "gem",
+    rarity: 5,
+    evo: 8,
+    fullName: "Artificial, Gemini II"
+  },
 };
