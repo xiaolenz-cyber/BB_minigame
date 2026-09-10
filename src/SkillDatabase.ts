@@ -8387,9 +8387,9 @@ const SkillDatabase: SkillMap = {
     },
 
     10199: {
-        name: "Hyper Plasma Beam", type: 2, func: 3, calc: 8,
+        name: "Hyper Plasma Beam", type: 2, func: 4 calc: 8,
         args: [3.5, 6, 1],
         range: 23, prob: 50, ward: 2,
-        desc: "Atk+Wis 3.5x for 2 random enemy ignore position, Confused Effect, prob 50%"
+        desc: "Magic Atk+Wis 3.5x for 2 random enemy ignore position, Confused Effect, prob 50%"
     },
 };
